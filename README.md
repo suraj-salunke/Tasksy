@@ -1,4 +1,4 @@
-# task_manager
+# Tasksy
 
 A simple Task Manager Application.
 
